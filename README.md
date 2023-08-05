@@ -29,6 +29,10 @@ El software lo construimos entre todos 💛
 * Incorporación de botones para agilizar el proceso de selección de cursos y secciones.
 * Realización de cambios menores para mejorar la experiencia general del usuario.
 
+**Álvaro Bacca ([c4ts0up](https://github.com/c4ts0up))**
+* Documentación del código
+* Manejo de colisiones para materias de periodo completo, primer y segundo ciclo
+
 ## Contacto
 
 Este proyecto es creado y mantenido por [Juan Sebastian Urrea](https://github.com/jsurrea) (js.urrea@uniandes.edu.co)
